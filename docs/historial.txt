@@ -1,0 +1,47 @@
+    1  git config --global
+    2  git config --global user.email "santyvelez2019@gmail.com"
+    3  git config --global user.email santyvelez2019@gmail.com
+    4  git config --global user.name "ElMachucaPapa"
+    5  git config --global user.name ElMachucaPapa
+    6  git config --global user.name
+    7  clear
+    8  git config --global user.name "Richar.exe"
+    9  git config --global user.name
+   10  git config --global user.email "efadadaww@adadada"
+   11  git config --global user.email 
+   12  git config --global --list
+   13  git config --global core.editor "code --wait"
+   14  git config --global core.editor code --wait
+   15  git config  --global color.ui 
+   16  git config  --global color.ui true
+   17  git config --global color.ui
+   18  git config --global core.autocrlf true
+   19  git config --global core.autocrlf 
+   20  cd c:
+   21  cd Users/
+   22  C:\Users\santy\OneDrive\Escritorio\SENA-2026\Santiago\ejemplo
+   23  cd c:
+   24  cd Users/santy/OneDrive/Escritorio/SENA-2026/Santiago/
+   25  cd ejemplo/
+   26  git status
+   27  git add mala_costumbre.txt
+   28  git add mala_costumbre.txt
+   29  git status
+   30  mkdir YA TU SABE
+   31  mkdir maracaibo
+   32  cd Users/santy/OneDrive/Escritorio/SENA-2026/Santiago/
+   33  cd Users/santy/OneDrive/Escritorio/SENA-2026/Santiago/
+   34  cd Users/
+   35  git config -- global
+   36  C:/Users/Santy/OneDrive/Escritorio/SENA-2026/Santiago/ejemplo
+   37  cd Users/
+   38  C:/Users/Santy/OneDrive/Escritorio/SENA-2026/Santiago/ejemplo
+   39  cd c:
+   40  C:/Users/Santy/OneDrive/Escritorio/SENA-2026/Santiago
+   41  git commit -a -m " aqui empieza mi app"
+   42  cd VICTOR/
+   43  git commit -a -m " aqui empieza mi app"
+   44  git commit -a -m "DOS LINEAS EN EL IGNORE"
+   45  ls -R > docs/estructura.txt
+   46  git commit -a -m "ESTRUCTURA TXT"
+   47  history > docs/historial.txt
