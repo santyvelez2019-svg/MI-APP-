@@ -6,8 +6,3 @@ Ayuda a prevenir amenazas digitales mediante herramientas de seguridad y monitor
 --NOMBRE: ALEX SANTIAGO VELEZ RICARDO
 
 
--- Funciones que tendrá mi app
-
-- Registro y gestión de usuarios.
-- Protección y monitoreo de la información.
-- Alertas de seguridad ante posibles amenazas.
