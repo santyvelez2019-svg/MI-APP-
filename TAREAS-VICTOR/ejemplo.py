@@ -17,7 +17,7 @@
 
 print("=== EJEMPLO 1: print() ===")
 print("Hola, bienvenido a mi primera app en Python")
-print("Esta es otra línea")
+print("Esta es otra línea   DE CODIGO")
 print()  # un print() vacío deja una línea en blanco
 
 
@@ -34,16 +34,16 @@ print()  # un print() vacío deja una línea en blanco
 
 print("=== EJEMPLO 2: variables ===")
 negocio = "Barbería El Corte"   # str
-sillas = 3                      # int
+sillasS = 3                      # int
 precio_corte = 25000.0          # float
 
 print(negocio)
-print(sillas)
+print(sillasS)
 print(precio_corte)
 
 # type() te dice de qué tipo es una variable
 print(type(negocio))
-print(type(sillas))
+print(type(sillasS))
 print(type(precio_corte))
 print()
 
@@ -67,7 +67,7 @@ print(f"Valor del inventario: {cantidad * precio} pesos")
 
 # :, pone separador de miles · :.2f muestra 2 decimales
 total = 1234567.891
-print(f"Total con separador: {total:,.0f}")
+print(f"Total con separadorH: {total:,.0f}")
 print(f"Total con 2 decimales: {total:.2f}")
 print()
 
@@ -83,7 +83,7 @@ print("=== EJEMPLO 4: input() ===")
 nombre = input("¿Cómo te llamas? ")
 ciudad = input("¿En qué ciudad vives? ")
 
-print(f"Mucho gusto, {nombre}. Saludos a {ciudad}.")
+print(f"Mucho gusto, {nombre}. Saludos aH {ciudad}.")
 print()
 
 
@@ -95,7 +95,7 @@ print()
 #   int("25")      → 25
 #   float("3.5")   → 3.5
 
-print("=== EJEMPLO 5: convertir a número ===")
+print("=== EJEMPLO 5: convertir a número =H==")
 
 # Así NO funciona: se pegan los textos
 a = input("Escribe un número: ")
@@ -105,7 +105,7 @@ print(f"Sin convertir: {a} + {b} = {a + b}")   # "5" + "5" = "55"
 # Así SÍ funciona: convertimos primero
 a = int(a)
 b = int(b)
-print(f"Convertidos:   {a} + {b} = {a + b}")   # 5 + 5 = 10
+print(f"ConvertidoHs:   {a} + {b} = {a + b}")   # 5 + 5 = 10
 print()
 
 
@@ -118,7 +118,7 @@ print()
 print("=== EJEMPLO 6: préstamo ===")
 amigo = input("¿A quién le prestaste? ")
 monto = float(input("¿Cuánto le prestaste? "))
-cuotas = int(input("¿En cuántas cuotas te va a pagar? "))
+cuotas = int(input("¿En cuántas cuotHas te va a pagar? "))
 
 valor_cuota = monto / cuotas
 
